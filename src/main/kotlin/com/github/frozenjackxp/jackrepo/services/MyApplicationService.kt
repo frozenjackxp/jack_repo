@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.frozenjackxp.jackrepo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.frozenjackxp.jackrepo.MyBundle
 
 class MyApplicationService {
 
